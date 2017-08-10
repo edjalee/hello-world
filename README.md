@@ -1,2 +1,2 @@
-# hello-world
-#this file is created by Eddie Lee
+# Hello World!
+My name is edjalee
